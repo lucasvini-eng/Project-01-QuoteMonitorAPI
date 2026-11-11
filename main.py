@@ -272,7 +272,7 @@ def save_quote_by_columns(
     print(f" Dados da moeda '{currency_symbol}'✅")
 
 
-credencial_json = r"quotemonitor-504519-cb325cf01fe4.json"
+credencial_json = r"API JSON"
 scope = [
     "https://spreadsheets.google.com/feeds",
     "https://www.googleapis.com/auth/drive"
